@@ -1,0 +1,18 @@
+body
+{
+    background-color: black ;
+    color : white;
+}
+#banner
+{
+text-align: center;
+padding: 30px;
+}
+#clock
+{
+background-color: orange;
+height: 20px;
+width: 90px;
+margin-left: 637px;
+color: white;
+}
